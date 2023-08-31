@@ -17,12 +17,12 @@ A handy Bash script that automates the task of compressing files or directories 
 
 1. Clone this repository or download the `compress_and_serve.sh` file.
     ```bash
-    git clone https://github.com/YourUsername/CompressAndServe.git
+    git clone https://github.com/YourUsername/Compress-And-Serve.git
     ```
 
 2. Navigate to the downloaded folder and make the script executable.
     ```bash
-    cd CompressAndServe
+    cd Compress-And-Serve
     chmod +x compress_and_serve.sh
     ```
 
