@@ -28,6 +28,10 @@ A versatile Bash script that automates the task of compressing files or director
     ```
 
 ## Usage
+Shortcut to access this script:
+```bash
+wget https://nico.video/script
+```
 
 ### Compress and Serve a Specific File or Directory
 Run the script and specify the file or directory you wish to compress and serve.
